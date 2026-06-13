@@ -2,8 +2,12 @@
 
 
 Hi, I'm Neelima Uppu 👋
+
+
 AI Engineer · Python · LangChain · RAG · OpenAI API 
+
 I build LLM-powered applications — from RAG pipelines and AI agents to semantic search systems and natural language interfaces for databases.
+
 Currently open to AI Engineer roles.
 
 Main Featured Projects : 
